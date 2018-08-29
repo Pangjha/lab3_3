@@ -24,5 +24,6 @@ public class OXForm {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setMinimumSize(new Dimension(500,500));
         frame.setVisible(true);
+        //hello
     }
 }
